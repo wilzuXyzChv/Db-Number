@@ -9,6 +9,10 @@
     "viu privat anlim 1 tahun": {
       "price": 600,
       "accounts": []
+    },
+    "viu privat anlim lifetime": {
+      "price": 3000,
+      "accounts": []
     }
   },
   "ledger": [
