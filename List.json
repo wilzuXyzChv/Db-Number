@@ -47,5 +47,12 @@
     "role": "user",
     "created_at": "2026-06-11T10:30:00.000Z",
     "expired_at": "2027-06-11T10:30:00.000Z"
+  },
+  {
+    "username": "6",
+    "password": "2",
+    "role": "user",
+    "created_at": "2026-06-11T08:06:28.451Z",
+    "expired_at": "2027-06-11T08:06:28.402Z"
   }
 ]
