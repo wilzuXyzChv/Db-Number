@@ -21,11 +21,11 @@
     "expired_at": "2026-07-11T10:10:00.000Z"
   },
   {
-    "username": "user5bulan",
-    "password": "5bulanabc",
+    "username": "user2bulan",
+    "password": "2bulan789",
     "role": "user",
-    "created_at": "2026-06-11T10:20:00.000Z",
-    "expired_at": "2026-11-11T10:20:00.000Z"
+    "created_at": "2026-06-11T10:15:00.000Z",
+    "expired_at": "2026-08-11T10:15:00.000Z"
   },
   {
     "username": "user8bulan",
