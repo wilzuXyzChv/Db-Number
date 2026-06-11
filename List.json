@@ -42,13 +42,6 @@
     "expired_at": "2027-02-11T10:25:00.000Z"
   },
   {
-    "username": "user1tahun",
-    "password": "1tahun123",
-    "role": "user",
-    "created_at": "2026-06-11T10:30:00.000Z",
-    "expired_at": "2027-06-11T10:30:00.000Z"
-  },
-  {
     "username": "6",
     "password": "2",
     "role": "user",
@@ -61,12 +54,5 @@
     "role": "user",
     "created_at": "2026-06-11T08:08:20.076Z",
     "expired_at": "2026-06-18T08:08:20.071Z"
-  },
-  {
-    "username": "ditz",
-    "password": "ditz23",
-    "role": "user",
-    "created_at": "2026-06-11T13:23:51.286Z",
-    "expired_at": "2026-06-18T13:23:51.283Z"
   }
 ]
