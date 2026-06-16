@@ -61,5 +61,12 @@
     "role": "user",
     "created_at": "2026-06-11T13:26:25.227Z",
     "expired_at": "2026-06-18T13:26:25.226Z"
+  },
+  {
+    "username": "Raxel",
+    "password": "2",
+    "role": "user",
+    "created_at": "2026-06-16T18:30:41.532Z",
+    "expired_at": "2026-07-16T18:30:41.530Z"
   }
 ]
