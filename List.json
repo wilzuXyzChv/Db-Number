@@ -78,9 +78,9 @@
   },
   {
     "username": "denz",
-    "password": "123",
+    "password": "denz123",
     "role": "user",
-    "created_at": "2026-07-10T07:22:03.590Z",
-    "expired_at": "2027-07-10T07:22:03.551Z"
+    "created_at": "2026-07-10T07:24:56.721Z",
+    "expired_at": "2026-08-09T07:24:56.719Z"
   }
 ]
