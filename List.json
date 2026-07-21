@@ -7,6 +7,13 @@
     "expired_at": "2099-12-31T23:59:59.000Z"
   },
   {
+    "username": "user7hari",
+    "password": "7hari123",
+    "role": "user",
+    "created_at": "2026-06-11T10:05:00.000Z",
+    "expired_at": "2026-06-18T10:05:00.000Z"
+  },
+  {
     "username": "user1bulan",
     "password": "1bulan456",
     "role": "user",
@@ -64,7 +71,7 @@
   },
   {
     "username": "denz",
-    "password": "denz123",
+    "password": "wu603s",
     "role": "user",
     "created_at": "2026-07-10T07:24:56.721Z",
     "expired_at": "2026-08-09T07:24:56.719Z"
